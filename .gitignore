@@ -1,0 +1,56 @@
+# Binários gerados
+*.exe
+*.out
+*.app
+
+# Objetos compilados
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Arquivos de CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Diretórios de build
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# Banco de dados SQLite
+*.db
+*.sqlite
+
+# Arquivos de backup
+*~
+*.bak
+*.old
+
+# Ferramentas específicas de IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Arquivos gerados pelo sistema operacional
+Thumbs.db
+.DS_Store
+
+# Outros
+*.gch
+*.pch
